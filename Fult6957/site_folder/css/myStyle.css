@@ -1,0 +1,78 @@
+/* STYLE SHEET FOR (personal website) */
+
+body
+{
+margin:25px;
+background-color:#e6ffff;
+}
+
+h1
+{
+font-weight: bold;
+text-align: center;
+text-decoration: underline;
+color: #75a3a3;
+font-size: 450%;
+font-family: Courier New, Courier, monospace;
+margin-bottom: 25px;
+margin-top: 25x;
+}
+
+h2
+{
+font-weight: bold;
+text-decoration: underline;
+text-align: center;
+color: #0a0f0f;
+font-size: 225%;
+font-family: Courier New, Courier, monospace;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+
+p 
+{
+margin-top: 9px; 
+font-size: 112%;
+margin-bottom: 9px;
+font-family: Courier New, Courier, monospace;
+text-indent: 15px;
+}
+
+a
+{
+text-decoration: underline;
+text-align: center;
+color: #0a0f0f;
+font-size: 112%;
+font-family: Courier New, Courier, monospace;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+
+table, th, td
+{
+border: 1px solid black;
+}
+th
+{
+text-align: left;
+}
+
+h3 
+{
+font-weight: bold;
+text-align: center;
+color: #0a0f0f;
+font-size: 225%;
+font-family: Courier New, Courier, monospace;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+
+
+
+
+
+
+
